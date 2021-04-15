@@ -1,10 +1,26 @@
-img {
+h1{
+	color: #df354f; 
+}
+
+h2{
+	color: white;
+}
+
+p{
+	color: black;
+}
+
+#main_picture{
+	position: static;
+    vertical-align: middle;
     
-    width: 1300px;
-    height: 300px;
-  }
-  
-  h1{
-      text-align: center;
-      color: white;
-  }
+}
+
+.p
+#footer{
+	height: 100%;
+}
+
+i{
+    vertical-align: middle;
+}
